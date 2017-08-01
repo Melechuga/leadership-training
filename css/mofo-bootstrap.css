@@ -710,11 +710,11 @@ ul {
         column-gap: 50px; } }
   ol.no-list-style,
   ul.no-list-style {
-    margin-top: 30px;
+    margin-top: 20px;
     list-style-type: none; }
   ol li,
   ul li {
-    margin: 20px 0; }
+    margin: 10px 0; }
     ol li.item,
     ul li.item {
       display: flex;
