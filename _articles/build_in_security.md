@@ -5,34 +5,37 @@ following: _articles/engage_base.md
 date: 2016-10-06 14:05:56
 ---
 
-### Step 2: Build in Security
-_What protections have I put around the data I've collected?_
+**What protections have I put around the data I've collected**
 * Limit access to the data to those who truly need access.
 * Encrypt it while you're moving it.
 * Know where you store your data and think about how best to protect that data.
 
-#### A. Who has access to your data?
+### A. Who has access to your data?
 Access to data isn’t dependent on your management structure, it is about who needs access to use that data on a regular basis.  As people change roles within an organization, their access needs may change.  
 
 Who has access to your membership data? Consider the following.  
-- [ ] Staff 
-- [ ] Independent contractors
-- [ ] Volunteers
-- [ ] 3rd-party platforms (payment processor, email management, events, etc.)
-- [ ] Membership
+- Staff 
+- Independent contractors
+- Volunteers
+- 3rd-party platforms (payment processor, email management, events, etc.)
+- Membership
 
 Dig deeper, and ask yourself the following questions:
-- [ ] For each group that you checked above, does everyone in the group need access to all membership data? Often, organizations discover more people have access than actually need it.
-- [ ] Can you create access controls, so that only people who need to know certain data, have access to that limited set of data?
-- [ ] Do all people who have access to membership data understand the value of that data, how to protect it, whom it can be shared with, and under what conditions it can be shared?
-- [ ] How much damage could a disgruntled employee -- or one whose computer has been hacked -- do if they walked off with a copy of all the data they have access to?
+- For each group that you checked above, does everyone in the group need access to all membership data? Often, organizations discover more people have access than actually need it.
+- Can you create access controls, so that only people who need to know certain data, have access to that limited set of data?
+- Do all people who have access to membership data understand the value of that data, how to protect it, whom it can be shared with, and under what conditions it can be shared?
+- How much damage could a disgruntled employee -- or one whose computer has been hacked -- do if they walked off with a copy of all the data they have access to?
+
 ---
->***Example 1: Shared Documents***</br>
+
+#### Example 1: Shared Documents***</br>
 *If your organization uses G Suite, Box, or Dropbox, for example, your default settings might be to share all of your documents with everyone in the organization -- they might not all have default editing rights, but they might be able to search for, view, and copy everything. Sharing sensitive data isn’t about excluding members of your organization, but rather about mitigating risk so that data is not used inappropriately. For example, if an outsider with malicious intent  knew that all of your staff had access to sensitive data, they could target anyone until they found a vulnerability -- maybe one of your staff members doesn’t change their password as often as they should, or they sign in on a more vulnerable machine.* 
 
->*Limiting the number of people who have access to certain types of data keeps your organization more secure. Some organizations have multiple people with access to different sections of the sensitive data, making it much harder for malicious external actors to access the whole dataset by targeting one staff member. Moreover, it should only be the people who use this data on a regular basis who have access, which may not necessarily be decided by organizational hierarchy.*
+*Limiting the number of people who have access to certain types of data keeps your organization more secure. Some organizations have multiple people with access to different sections of the sensitive data, making it much harder for malicious external actors to access the whole dataset by targeting one staff member. Moreover, it should only be the people who use this data on a regular basis who have access, which may not necessarily be decided by organizational hierarchy.*
+
 ---
->***Example 2: Customer Relationship Management Services***</br>
+
+#### Example 2: Customer Relationship Management Services***</br>
 *Many organizations use various types of customer relationship management (CRM) services or software to manage their list of supporters and communicate with them effectively. Often you’ll give people in your organization access to the data in these services but then never remove that access when people move on to another position that no longer requires that access.*  
 
 >*Check out the list of people who have access to your CRM data or to the software you use to manage contacts. The list might be longer than you think!*
