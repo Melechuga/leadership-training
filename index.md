@@ -15,17 +15,17 @@ Every additional byte you store increases your operating costs and the costs to 
 ### What's in the toolkit?
 
 This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
-* Stay Lean
+* **Stay Lean**
     * What data do you have?
     * Where and how do you collect your data?
     * Who has access to your data?
     * Why are you collecting this data?
-* Build in Security
+* **Build in Security**
     * Your security
     * Vendor security
     * Data incidents and notification policies
     * Subpoena policies
-* Engage Your Membership Base
+* **Engage Your Membership Base**
     * In-context notices
     * Controls
     * Privacy policy
