@@ -4,14 +4,13 @@ title: "Stay Lean"
 date: 2017-07-31 14:05:56
 following: _articles/resources.md
 ---
-### Step 1: Stay Lean </br>
-_All data is interesting, but only some data is useful._ </br>
+_All data is interesting, but only some data is useful._ <br />
 
 Do I need this data to provide the value I'm trying to deliver to members?
 * If you don't need a piece of data, try not to collect it.
 * If you do need a piece of data, try to keep it for only as long as necessary and anonymize the data before you store it.
 
-#### A. What data do you have?
+### A. What data do you have?
 Understanding what data you actually collect is easier said than done.  Often, it turns out that organizations have more data than they think they have. 
 
 Consider the following. Do you have any of this data?
@@ -43,7 +42,7 @@ _When asked, many organizations do not actually need a member’s first and last
 
 _Your members might not actually give a hoot about personalized emails.  So why not give them the choice whether they prefer to receive an email that says “Hi Bob” versus an email that starts with “Hi friend” or “Dear supporter.”_
 
-#### B. How do you collect your data?
+### B. How do you collect your data?
 
 There are probably multiple ways in which you collect data. Consider the following channels of data exchange:
 - [ ] Survey
@@ -78,14 +77,14 @@ _Petitions often ask for the full home address of the signatory, when perhaps on
 
 _Chances are, if they’re signing your petition, they are either already a part of your membership or they follow your work closely. (And the odds are also high that their browser can, based on the first few characters typed, quickly pre-fill form fields on a petition page -- making it unnecessary for you to store and pre-populate that information.)_ 
 
-#### C. Why are you collecting this data?
+### C. Why are you collecting this data?
 Answering “why are you collecting this data?” is the most important part of data collection. You should always have a well-reasoned plan to support each piece of data. In Example 1, we concluded that a person’s last name is unnecessary without sound reason.  Consider the following questions for each piece of data collected:
 - [ ] Does having this data contribute to your theory of change?
 - [ ] Is there an alternative means to collecting the data you need, which better protects your membership base?
 - [ ] How long do you need the data? Are you keeping it for a short time or forever? If the latter, is there a point at which it will no longer be valuable?
 
 
-#### D. When do you delete the data?
+### D. When do you delete the data?
 Delete the data when it’s no longer relevant.  This will always depend on the specific data set and its purpose.  
 
 It’s always worthwhile to consider this before you collect the data.  In some cases, it may be very obvious that you only need the data for a certain number of days or months (for example, if you specifically collect home addresses to send donation premiums, you probably don’t need that data after the shipments are sent).  In other cases, you may want to schedule a reminder to check whether the data set remains relevant, and if not, you can delete parts of it. 
