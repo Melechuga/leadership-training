@@ -87,7 +87,11 @@ h4 {
 }
 
 h5 {
-  font-weight: 400;
+  font-style: italics;
+  font-size: 1rem
+  font-family: Arvo,sans-serif;
+  color: #F34F96;
+
 }
 
 .details + h3 {
