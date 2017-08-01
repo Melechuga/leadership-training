@@ -1,7 +1,7 @@
 <div class="sidebar-header">
   <a href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/img/moz-logo-main-rgb.png" alt="Mozilla Open Leadership Training Series" class="moz-logo" /><br />
-    <span>Open Leaders</span>
+    <img src="{{ site.baseurl }}/img/moz-logo-main-rgb.png" alt="Lean Data Practices for Civil Society Organizations" class="moz-logo" /><br />
+    <span>Lean Data</span>
   </a>
   <!-- <button aria-label="toggle" class="glyphicon glyphicon-menu-hamburger hidden-lg hidden-md"></button> -->
 </div>
@@ -18,7 +18,6 @@
         {% endif %}
   </li>
 {% endfor %}
-  <li><a href="https://medium.com/@MozOpenLeaders" target="_blank">Blog</a></li>
 
   {% assign item = site.pages | where: "path", "contents.html" | first %}
 {% for path in item.contents %}
