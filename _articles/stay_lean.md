@@ -72,9 +72,9 @@ Consider the tools you use for data collection and management:
 
 ---
 #### _Example: Signing a Petition_ 
-_Petitions often ask for the full home address of the signatory, when perhaps only the city, state, and zipcode (or zip +4) are needed to target action alerts.. When petitions collect more data than they need, the third-party tool often has access to that data as well. If your goal is to amplify the voices of those who want to make a political statement, why not make sure you’re prioritizing their privacy at the same time?_ 
+<p> Petitions often ask for the full home address of the signatory, when perhaps only the city, state, and zipcode (or zip +4) are needed to target action alerts.. When petitions collect more data than they need, the third-party tool often has access to that data as well. If your goal is to amplify the voices of those who want to make a political statement, why not make sure you’re prioritizing their privacy at the same time? </p> 
 
-_Chances are, if they’re signing your petition, they are either already a part of your membership or they follow your work closely. (And the odds are also high that their browser can, based on the first few characters typed, quickly pre-fill form fields on a petition page -- making it unnecessary for you to store and pre-populate that information.)_ 
+<p> _Chances are, if they’re signing your petition, they are either already a part of your membership or they follow your work closely. (And the odds are also high that their browser can, based on the first few characters typed, quickly pre-fill form fields on a petition page -- making it unnecessary for you to store and pre-populate that information.)_ </p>
 ---
 
 ### C. Why are you collecting this data?
