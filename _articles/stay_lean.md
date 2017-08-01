@@ -17,7 +17,7 @@ Consider the following. Do you have any of this data?
 - Addresses
 - Phone numbers
 - Birthdays or birthdates
-- Social media accounts
+- Social media accounts <br/><br/>
 
 Dig deeper, and you’ll probably find you have much more data than you thought. Such as:
 - IP address
@@ -27,7 +27,7 @@ Dig deeper, and you’ll probably find you have much more data than you thought.
 - Dates of donations
 - Amounts of donations
 - Credit card numbers (or last four)
-- Passwords
+- Passwords <br/><br/>
 
 Now ask:
 - Do you actually use this data? 
@@ -55,7 +55,7 @@ There are probably multiple ways in which you collect data. Consider the followi
 - Donation  
 - Interviews
 - Conference 
-- Social Media 
+- Social Media <br/><br/>
 
 Depending on the tools you use for data collection -- whether they are 3rd-party platforms or your own -- multiple different people and different organizations will have access to that data, and you can’t always supervise their security procedures. This means that your membership data may be leaving a digital footprint that is larger than you thought.  
 
@@ -64,11 +64,11 @@ Consider the tools you use for data collection and management:<br />
 **Data Collection**
 - What data will the company behind the tool collect or access?
 - Does it include personally identifiable data like full name, address, phone number, email address?
-- Does it include additional profile data like gender, race, ethnicity, religion, political interests?
+- Does it include additional profile data like gender, race, ethnicity, religion, political interests? <br/><br/>
 
 **Actionable Need**
 - Do you/vendor have a legitimate need that will lead to an action for all the data? 
-- Can you make a change to the vendor’s standard template to reflect your needs and your higher data standards? Vendor templates are often over-inclusive for data collection.
+- Can you make a change to the vendor’s standard template to reflect your needs and your higher data standards? Vendor templates are often over-inclusive for data collection. <br/><br/>
     
 **Alternative with less impact?**
 - Can the vendor aggregate the data or convert it into an anonymous or pseudonymous format?
