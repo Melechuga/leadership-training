@@ -38,11 +38,11 @@ This toolkit is designed to help you review your processes around collecting and
 <br />
 <br />
 <br />
-
-_This resource was created by Mozilla and published under [CC By 4.0 licensing](https://creativecommons.org/licenses/by/4.0/)._
 <br />
+
 ---
-##### Get smart on the issues affecting your online life. Sign up to receive our newsletter.
+
+**Get smart on the issues affecting your online life. Sign up to receive our newsletter.**
 
  <form id="newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
                 <input type="hidden" id="fmt" name="fmt" value="H">
