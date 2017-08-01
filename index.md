@@ -15,7 +15,7 @@ Every additional byte you store increases your operating costs and the costs to 
 ![](/leadership-training/img/mozfest.jpeg)
 
 ### What's in the toolkit?
-<p> This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
+This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
 1. Stay Lean
   1. What data do you have?
   2. Where and how do you collect your data?
@@ -30,7 +30,7 @@ Every additional byte you store increases your operating costs and the costs to 
   1. In-context notices
   2. Controls
   3. Privacy policy
-  4. Transparency report</p>
+  4. Transparency report
 
 ### Who is this toolkit for?
 <p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potential external influences.</p>
