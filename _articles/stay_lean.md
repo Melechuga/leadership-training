@@ -36,10 +36,12 @@ Now ask:
 - If this information were compromised, could it be used to target your membership with phishing attacks? 
 
 ---
-#### _Example: First and Last Name_
-When asked, many organizations do not actually need a member’s first and last name.  First name is often nice to personalize emails -- but have you tested whether it lifts your response rates? Last name is often never used, yet it hangs around in records.  If your membership list is compromised, a third-party will have a list that identifies specific people, instead of a list that includes multiple people named Bob.
 
-Your members might not actually give a hoot about personalized emails.  So why not give them the choice whether they prefer to receive an email that says “Hi Bob” versus an email that starts with “Hi friend” or “Dear supporter.”
+#### _Example: First and Last Name_
+_When asked, many organizations do not actually need a member’s first and last name.  First name is often nice to personalize emails -- but have you tested whether it lifts your response rates? Last name is often never used, yet it hangs around in records.  If your membership list is compromised, a third-party will have a list that identifies specific people, instead of a list that includes multiple people named Bob._
+
+_Your members might not actually give a hoot about personalized emails.  So why not give them the choice whether they prefer to receive an email that says “Hi Bob” versus an email that starts with “Hi friend” or “Dear supporter.”_
+
 ---
 
 ### B. How do you collect your data?
@@ -71,10 +73,12 @@ Consider the tools you use for data collection and management:
 - Can the vendor aggregate the data or convert it into an anonymous or pseudonymous format?
 
 ---
-#### _Example: Signing a Petition_ 
-<p> Petitions often ask for the full home address of the signatory, when perhaps only the city, state, and zipcode (or zip +4) are needed to target action alerts.. When petitions collect more data than they need, the third-party tool often has access to that data as well. If your goal is to amplify the voices of those who want to make a political statement, why not make sure you’re prioritizing their privacy at the same time? </p> 
 
-<p> Chances are, if they’re signing your petition, they are either already a part of your membership or they follow your work closely. (And the odds are also high that their browser can, based on the first few characters typed, quickly pre-fill form fields on a petition page -- making it unnecessary for you to store and pre-populate that information.)</p>
+#### _Example: Signing a Petition_ 
+_Petitions often ask for the full home address of the signatory, when perhaps only the city, state, and zipcode (or zip +4) are needed to target action alerts.. When petitions collect more data than they need, the third-party tool often has access to that data as well. If your goal is to amplify the voices of those who want to make a political statement, why not make sure you’re prioritizing their privacy at the same time?_
+
+_Chances are, if they’re signing your petition, they are either already a part of your membership or they follow your work closely. (And the odds are also high that their browser can, based on the first few characters typed, quickly pre-fill form fields on a petition page -- making it unnecessary for you to store and pre-populate that information.)_
+
 ---
 
 ### C. Why are you collecting this data?
