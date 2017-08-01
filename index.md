@@ -19,19 +19,19 @@ This toolkit is designed to help you review your processes around collecting and
     * What data do you have?
     * Where and how do you collect your data?
     * Who has access to your data?
-    * Why are you collecting this data?
-   <br />
+    * Why are you collecting this data? <br />
+
 * **Build in Security**
     * Your security
     * Vendor security
     * Data incidents and notification policies
-    * Subpoena policies
-    < br/>
+    * Subpoena policies <br />
+  
 * **Engage Your Membership Base**
     * In-context notices
     * Controls
     * Privacy policy
-    * Transparency report
+    * Transparency report 
 
 ### Who is this toolkit for?
 
