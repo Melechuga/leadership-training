@@ -77,6 +77,15 @@ h3 {
   color: #5AC1A4;
 }
 
+h4 {
+  font-weight: 200;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-family: Arvo,sans-serif;
+  color: #F34F96;
+}
+
 h5 {
   font-weight: 400;
 }
