@@ -537,6 +537,9 @@ a.btn:hover {
   border-color: #FEDD50;
   color: #000;
 }
+.btn-leandata {
+	background-color: #5AC1A4
+}
 
 /* PASSING */
 
