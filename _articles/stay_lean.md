@@ -4,22 +4,20 @@ title: "Stay Lean"
 date: 2017-07-31 14:05:56
 following: _articles/resources.md
 ---
-_All data is interesting, but only some data is useful._
-
-Do I need this data to provide the value I'm trying to deliver to members?
+**Staying lean starts with asking yourself, do I need this data to provide the value I'm trying to deliver to members?
 * If you don't need a piece of data, try not to collect it.
-* If you do need a piece of data, try to keep it for only as long as necessary and anonymize the data before you store it.
+* If you do need a piece of data, try to keep it for only as long as necessary and anonymize the data before you store it.**
 
 ### A. What data do you have?
 Understanding what data you actually collect is easier said than done.  Often, it turns out that organizations have more data than they think they have. 
 
 Consider the following. Do you have any of this data?
-- [ ] Names
-- [ ] Emails
-- [ ] Addresses
-- [ ] Phone numbers
-- [ ] Birthdays or birthdates
-- [ ] Social media accounts
+ :white_medium_small_square: Names
+ :white_medium_small_square: Emails
+ :white_medium_small_square: Addresses
+ :white_medium_small_square: Phone numbers
+ :white_medium_small_square: Birthdays or birthdates
+ :white_medium_small_square:Social media accounts
 
 Dig deeper, and you’ll probably find you have much more data than you thought. Such as:
 - [ ] IP address
