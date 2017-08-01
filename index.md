@@ -12,9 +12,8 @@ Members are much less likely to take actions or use services of organizations th
 **Reduced Risk**<br/>
 Every additional byte you store increases your operating costs and the costs to deal with a data or security breach (like legal fees, fines, credit monitoring services, etc.).
 
-![](/leadership-training/img/mozfest.jpeg)
-
 ### What's in the toolkit?
+
 This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
 1. Stay Lean
     1. What data do you have?
@@ -33,6 +32,7 @@ This toolkit is designed to help you review your processes around collecting and
     4. Transparency report
 
 ### Who is this toolkit for?
+
 <p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potential external influences.</p>
 
 
