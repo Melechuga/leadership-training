@@ -40,7 +40,7 @@ _This resource was created by Mozilla and published under [CC By 4.0 licensing](
                     </label>
                 </div>
                 <div id="newsletter_submit">
-                    <button id="newsletter_submit" type="submit" class="btn btn-success">Sign up now</button>
+                    <button id="newsletter_submit" type="submit" class="btn btn-leandata">Sign up now</button>
                 </div>
 </form>
 <script src="basket-client.js"></script>
