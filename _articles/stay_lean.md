@@ -37,9 +37,9 @@ Now ask:
 
 ---
 #### _Example: First and Last Name_
-_When asked, many organizations do not actually need a member’s first and last name.  First name is often nice to personalize emails -- but have you tested whether it lifts your response rates? Last name is often never used, yet it hangs around in records.  If your membership list is compromised, a third-party will have a list that identifies specific people, instead of a list that includes multiple people named Bob._
+##### When asked, many organizations do not actually need a member’s first and last name.  First name is often nice to personalize emails -- but have you tested whether it lifts your response rates? Last name is often never used, yet it hangs around in records.  If your membership list is compromised, a third-party will have a list that identifies specific people, instead of a list that includes multiple people named Bob.
 
-_Your members might not actually give a hoot about personalized emails.  So why not give them the choice whether they prefer to receive an email that says “Hi Bob” versus an email that starts with “Hi friend” or “Dear supporter.”_
+##### Your members might not actually give a hoot about personalized emails.  So why not give them the choice whether they prefer to receive an email that says “Hi Bob” versus an email that starts with “Hi friend” or “Dear supporter.”
 ---
 
 ### B. How do you collect your data?
