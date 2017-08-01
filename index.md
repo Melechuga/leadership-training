@@ -20,7 +20,7 @@ Every additional byte you store increases your operating costs and the costs to 
 _This resource was created by Mozilla and published under [CC By 4.0 licensing](https://creativecommons.org/licenses/by/4.0/)._
 
 ---
-**Get smart on the issues affecting your online life.<br/>
+**Get smart on the issues affecting your online life.**<br/>
 **Sign up to receive our newsletter.**
 
  <form id="newsletter_form" name="newsletter_form" action="https://www.mozilla.org/en-US/newsletter/" method="post">
