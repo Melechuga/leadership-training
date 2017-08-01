@@ -4,7 +4,7 @@ title: "Stay Lean"
 date: 2017-07-31 14:05:56
 following: _articles/resources.md
 ---
-_All data is interesting, but only some data is useful._ <br />
+<h4 style="color:#F34F96"_All data is interesting, but only some data is useful._</style> <br />
 
 Do I need this data to provide the value I'm trying to deliver to members?
 * If you don't need a piece of data, try not to collect it.
