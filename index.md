@@ -19,7 +19,7 @@ Every additional byte you store increases your operating costs and the costs to 
 
 ### Get started now -->
 
-
+---
 #### Love the Web? Receive our Newsletter
 
 <form class="billboard newsletter-form footer-newsletter-form" id="newsletter-form" action="/en-US/newsletter/" method="post" data-spinner-color="#c13832">
