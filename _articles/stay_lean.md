@@ -59,7 +59,7 @@ There are probably multiple ways in which you collect data. Consider the followi
 
 Depending on the tools you use for data collection -- whether they are 3rd-party platforms or your own -- multiple different people and different organizations will have access to that data, and you can’t always supervise their security procedures. This means that your membership data may be leaving a digital footprint that is larger than you thought.  
 
-Consider the tools you use for data collection and management:
+Consider the tools you use for data collection and management:<br />
 
 **Data Collection**
 - What data will the company behind the tool collect or access?
