@@ -510,7 +510,7 @@ td, th {
 }
 
 a.btn {
-  border: 2px solid #3bb7ef;
+  border: 2px solid #fedd50;
   color: #000;
   transition: background 0.2s ease-in-out;
   white-space:normal;
@@ -524,8 +524,8 @@ a.btn {
 
 a.btn:hover {
   opacity: 1;
-  background: #00FFFF;
-  border-color: #00FFFF;
+  background: #FEDD50;
+  border-color: #FEDD50;
   color: #000;
 }
 
