@@ -74,7 +74,7 @@ h3 {
   margin-bottom: 2rem;
   font-size: 2rem;
   font-family: Arvo,sans-serif;
-  color: #A95FAD;
+  color: #5AC1A4;
 }
 
 h5 {
@@ -255,7 +255,7 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header span {
   padding: 0.3em 0;
   font-family: Arvo,sans-serif;
-  background-color: #FA8CFF;
+  background-color: #FEDD50;
   font-weight:700;
   line-height: 1.9;
 }
@@ -304,7 +304,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #66FFFF;
+  background-color: #FEDD50;
   color:black;
   transition: background-color 3ms;
 }
@@ -315,7 +315,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #A6FFFF;
+  background-color: #FFE989;
 }
 
 .sidebar-menu strong {
