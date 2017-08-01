@@ -35,9 +35,14 @@ This toolkit is designed to help you review your processes around collecting and
 
 <p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potential external influences.</p>
 
-
+<br />
+<br />
+<br />
 
 _This resource was created by Mozilla and published under [CC By 4.0 licensing](https://creativecommons.org/licenses/by/4.0/)._
+<br />
+<br />
+<br />
 
 ---
 **Get smart on the issues affecting your online life. Sign up to receive our newsletter.**
