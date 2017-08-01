@@ -538,7 +538,11 @@ a.btn:hover {
   color: #000;
 }
 .btn-leandata {
-	background-color: #5AC1A4
+	opacity: 1;
+	background-color: #5AC1A4 ;
+	border-color: #5AC1A4 ;
+	color: #FEDD50;
+	
 }
 
 /* PASSING */
