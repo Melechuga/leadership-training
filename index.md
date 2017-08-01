@@ -17,7 +17,7 @@ Every additional byte you store increases your operating costs and the costs to 
 ### Who is this for?
 <p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potential external influences.</p>
 
-### Get started now -->
+
 
 ---
 #### Love the Web? Receive our Newsletter
