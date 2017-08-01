@@ -14,8 +14,28 @@ Every additional byte you store increases your operating costs and the costs to 
 
 ![](/leadership-training/img/mozfest.jpeg)
 
-### Who is this for?
+### What's in the toolkit?
+<p> This toolkit is designed to help you review your processes around collecting and storing data. Topics covered include:
+1. Stay Lean
+  1. What data do you have?
+  2. Where and how do you collect your data?
+  3. Who has access to your data?
+  4. Why are you collecting this data?
+2. Build in Security
+  1. Your security
+  2. Vendor security
+  3. Data incidents and notification policies
+  4. Subpoena policies
+3. Engage Your Membership Base
+  1. In-context notices
+  2. Controls
+  3. Privacy policy
+  4. Transparency report</p>
+
+### Who is this toolkit for?
 <p>If you (or your organization) are collecting data from advocates so that you can keep in touch with them, this is for you! If you want to make sure you're getting the data you need while protecting the privacy and security of your members, LDP can help you protect your organization from potential external influences.</p>
+
+
 
 _This resource was created by Mozilla and published under [CC By 4.0 licensing](https://creativecommons.org/licenses/by/4.0/)._
 
