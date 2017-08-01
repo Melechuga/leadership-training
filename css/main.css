@@ -22,20 +22,20 @@
 .hero-unit {
   text-align: center;
   padding: 4em 1em 3em;
-  background-image: url("/media/img/mozorg/about/lean-data/hero-data.bf9d01122b17.svg");
+  background-image: url("https://www.mozilla.org/media/img/mozorg/about/lean-data/hero-data.bf9d01122b17.svg");
   background-size: cover;
 
 }
 
 .hero-unit h1 {
-  color: #558194;
+  color: black;
   display: inline;
   padding: .3em 0;
   font-family: Arvo,sans-serif;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0;
-  background-color: 0;
+  background-color: white;
 }
 
 .hero-unit p {
