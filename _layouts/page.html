@@ -9,24 +9,8 @@ layout: default
     {{ page.title }}
   </h2>
 </div>
-<div class="details">
-  <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Suggest changes</a>
-</div>
 {{ content }}
 
-{% if page.contents %}
-  <h3>In this toolkit</h3>
-{% for path in page.contents %}
-  {% assign subpage = site.articles | where: "path", path | first %}
-   <p>
-    {% if subpage.module %}{{ subpage.module }}.{% endif %}
-    <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
-    {% if subpage.time %}
-    ({{ subpage.time }})
-    {% endif %}
-  </p>
-{% endfor %}
-{% endif %}
 
 {% if page.following %}
  {% assign next = site.articles | where: "path", page.following | first %}
