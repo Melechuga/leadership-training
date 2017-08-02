@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Engage Your Membership Base"
+title: "Engage Your Membership"
 date: 2016-10-06 14:05:56
 ---
 
