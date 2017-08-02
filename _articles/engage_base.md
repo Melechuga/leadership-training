@@ -30,12 +30,12 @@ There is no “correct” format for a transparency report.  It should be descri
 
 ---
 
-#### Example: CREDO Mobile's Transparency Report
-*As a mobile virtual network operator dedicated to defending civil liberties, CREDO publishes a quarterly transparency report to disclose a number of different factors to their subscribers, including:
+#### _Example: CREDO Mobile's Transparency Report_
+_As a mobile virtual network operator dedicated to defending civil liberties, CREDO publishes a quarterly transparency report to disclose a number of different factors to their subscribers, including:
 - Number of governmental requests for customer information 
 - Political offices and parties they endorse
 - Recipients of grantmaking
-[Take a look here.](http://www.credomobile.com/transparency) If you are often requested information by the government and don't have a transparency report, why not publish your own?
+[Take a look here.](http://www.credomobile.com/transparency) If you are often requested information by the government and don't have a transparency report, why not publish your own?_
 
 ---
 
