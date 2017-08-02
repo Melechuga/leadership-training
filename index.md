@@ -45,6 +45,4 @@ This toolkit is designed to help you review your processes around collecting and
 
 ---
 
-**Get smart on the issues affecting your online life. Sign up to receive our newsletter.**
-
  
