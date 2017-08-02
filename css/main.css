@@ -206,7 +206,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar {
-  position: relative;
+  position: fixed;
   background-color: white;
   position: relative;
   height: auto;
@@ -251,7 +251,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header {
-  position: relative;
+  position: fixed;
   font-size: 1rem;
   padding: 1rem 1em;
   overflow: hidden;
