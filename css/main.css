@@ -28,6 +28,13 @@
 
 }
 
+.transbox {
+    margin: 0px;
+    background-color: #ffffff;
+    opacity: 0.6;
+               
+}
+
 .hero-unit h1 {
   color: black;
   display: inline;
