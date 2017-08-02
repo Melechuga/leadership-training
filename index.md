@@ -20,7 +20,7 @@ This toolkit is designed to help you review your processes around collecting and
   
 * [**Build in Security**](https://melechuga.github.io/lean-data-practices/build_in_security/)
     
-* [**Engage Your Membership Base**](https://melechuga.github.io/lean-data-practices/engage_membership/)
+* [**Engage Your Membership**](https://melechuga.github.io/lean-data-practices/engage_membership/)
  
 ### Who is this toolkit for?
 
