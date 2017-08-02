@@ -5,7 +5,7 @@ following: _articles/stay_lean.md
 
 ### Why Lean Data Practices?
 
-Lean Data Practices (“LDP”) are a technique to manage data.  You don’t need an engineering degree or a dedicated budget to apply LDP.  All you need is a commitment from your organization to think through data decisions thoughtfully.  The pay-off? LDP helps you build trust with members and reduces operational risk.  
+Lean Data Practices (“LDP”) are a technique to manage data, help you build trust with members and reduces operational risk. You don’t need an engineering degree or a dedicated budget to apply LDP.  All you need is a commitment from your organization to think through data decisions thoughtfully. 
 
 **Increased Trust**<br/>
 Members are much less likely to take actions or use services of organizations they don’t trust. Once trust is lost, it is hard -- and sometimes impossible -- to regain.
