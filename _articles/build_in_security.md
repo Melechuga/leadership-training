@@ -28,17 +28,17 @@ Dig deeper, and ask yourself the following questions:
 
 ---
 
-#### Example 1: Shared Documents 
-*If your organization uses G Suite, Box, or Dropbox, for example, your default settings might be to share all of your documents with everyone in the organization -- they might not all have default editing rights, but they might be able to search for, view, and copy everything. Sharing sensitive data isn’t about excluding members of your organization, but rather about mitigating risk so that data is not used inappropriately. For example, if an outsider with malicious intent  knew that all of your staff had access to sensitive data, they could target anyone until they found a vulnerability -- maybe one of your staff members doesn’t change their password as often as they should, or they sign in on a more vulnerable machine.* 
+#### _Example 1: Shared Documents_
+_If your organization uses G Suite, Box, or Dropbox, for example, your default settings might be to share all of your documents with everyone in the organization -- they might not all have default editing rights, but they might be able to search for, view, and copy everything. Sharing sensitive data isn’t about excluding members of your organization, but rather about mitigating risk so that data is not used inappropriately. For example, if an outsider with malicious intent  knew that all of your staff had access to sensitive data, they could target anyone until they found a vulnerability -- maybe one of your staff members doesn’t change their password as often as they should, or they sign in on a more vulnerable machine._
 
-*Limiting the number of people who have access to certain types of data keeps your organization more secure. Some organizations have multiple people with access to different sections of the sensitive data, making it much harder for malicious external actors to access the whole dataset by targeting one staff member. Moreover, it should only be the people who use this data on a regular basis who have access, which may not necessarily be decided by organizational hierarchy.*
+_Limiting the number of people who have access to certain types of data keeps your organization more secure. Some organizations have multiple people with access to different sections of the sensitive data, making it much harder for malicious external actors to access the whole dataset by targeting one staff member. Moreover, it should only be the people who use this data on a regular basis who have access, which may not necessarily be decided by organizational hierarchy._
 
 ---
 
-#### Example 2: Customer Relationship Management Services
-*Many organizations use various types of customer relationship management (CRM) services or software to manage their list of supporters and communicate with them effectively. Often you’ll give people in your organization access to the data in these services but then never remove that access when people move on to another position that no longer requires that access.*  
+#### _Example 2: Customer Relationship Management Services_
+_Many organizations use various types of customer relationship management (CRM) services or software to manage their list of supporters and communicate with them effectively. Often you’ll give people in your organization access to the data in these services but then never remove that access when people move on to another position that no longer requires that access._  
 
-*Check out the list of people who have access to your CRM data or to the software you use to manage contacts. The list might be longer than you think!*
+_Check out the list of people who have access to your CRM data or to the software you use to manage contacts. The list might be longer than you think!_
 
 ---
 
