@@ -62,7 +62,6 @@ details,
 figcaption,
 figure,
 footer,
-footer2,
 header,
 hgroup,
 main,
@@ -558,14 +557,6 @@ mark,
   font-size: 80%;
   line-height: 1.5;
   color: #818a91; }
-  .blockquote-footer::before {
-    content: "\2014 \00A0"; }
-
-.blockquote-footer2 {
-  display: block;
-  font-size: 80%;
-  line-height: 1.5;
-  color: #AAB0B5; }
   .blockquote-footer::before {
     content: "\2014 \00A0"; }
 
