@@ -20,6 +20,7 @@ Who has access to your membership data? Consider the following:
 - 3rd-party platforms (payment processor, email management, events, etc.)
 - Membership
 <br /><br />
+
 Dig deeper, and ask yourself the following questions:
 - For each group that you checked above, does everyone in the group need access to all membership data? Often, organizations discover more people have access than actually need it.
 - Can you create access controls, so that only people who need to know certain data, have access to that limited set of data?
