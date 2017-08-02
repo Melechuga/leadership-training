@@ -24,12 +24,12 @@
   padding: 3em 5em 1em;
   background-image: url("https://www.mozilla.org/media/img/mozorg/about/lean-data/hero-data.bf9d01122b17.svg");
   background-size: cover;
-  opacity: 0.6;
+  opacity: 0.75;
 
 }
 
 .hero-unit h1 {
-  color: black;
+  color: #000;
   display: inline;
   padding: .3em 0;
   font-family: Arvo,sans-serif;
