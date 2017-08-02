@@ -35,7 +35,7 @@ Dig deeper, and ask yourself the following questions:
 
 ---
 
-#### Example 2: Customer Relationship Management Services***</br>
+#### Example 2: Customer Relationship Management Services <br />
 *Many organizations use various types of customer relationship management (CRM) services or software to manage their list of supporters and communicate with them effectively. Often you’ll give people in your organization access to the data in these services but then never remove that access when people move on to another position that no longer requires that access.*  
 
 *Check out the list of people who have access to your CRM data or to the software you use to manage contacts. The list might be longer than you think!*
