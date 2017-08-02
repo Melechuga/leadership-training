@@ -5,8 +5,8 @@ date: 2017-07-31 14:05:56
 following: _articles/build_in_security.md
 ---
 **Staying lean starts with asking yourself, do I need this data to provide the value I'm trying to deliver to members?**
-* If you don't need a piece of data, try not to collect it.
-* If you do need a piece of data, try to keep it for only as long as necessary and anonymize the data before you store it.
+* If you don't need a piece of data, don't collect it.
+* If you need a piece of data, keep it for only as long as necessary and anonymize the data before you store it.
 
 ### A. What data do you have?
 Understanding what data you actually collect is easier said than done.  Often, it turns out that organizations have more data than they think they have. 
