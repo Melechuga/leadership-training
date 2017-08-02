@@ -30,4 +30,4 @@ Every additional byte you store increases your operating costs and the costs to 
       * Transparency Report 
 
 ---
-This project was created in collaboration with the Mozilla Legal team, and is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensing. 
+This project was created by Mozilla, and is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensing. 
