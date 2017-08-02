@@ -24,15 +24,8 @@
   padding: 3em 5em 1em;
   background-image: url("https://www.mozilla.org/media/img/mozorg/about/lean-data/hero-data.bf9d01122b17.svg");
   background-size: cover;
-  image opacity: 0.5em;
+  opacity: 0.6;
 
-}
-
-.transbox {
-    margin: 0px;
-    background-color: #ffffff;
-    opacity: 0.6;
-               
 }
 
 .hero-unit h1 {
