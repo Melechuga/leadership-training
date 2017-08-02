@@ -2,7 +2,7 @@
 layout: page
 title: "Stay Lean"
 date: 2017-07-31 14:05:56
-following: _articles/resources.md
+following: _articles/build_in_security.md
 ---
 **Staying lean starts with asking yourself, do I need this data to provide the value I'm trying to deliver to members?**
 * If you don't need a piece of data, try not to collect it.
