@@ -1,5 +1,6 @@
 ---
 layout: home
+following: _articles/stay_lean.md
 ---
 
 ### Why Lean Data Practices?
