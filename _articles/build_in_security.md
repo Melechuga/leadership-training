@@ -90,6 +90,7 @@ Many vendors have online legal terms and privacy notices which require your agre
 - Does the vendor have the contractual right to use your data for its own purposes?
 - Will the vendor use your data to send its own promotional materials or advertisements?
 <br />
+
 **Security Controls & Data Retention**
 - What security controls does the vendor have in place?
    * Is the data encrypted when it is in transit to/from the vendor?
